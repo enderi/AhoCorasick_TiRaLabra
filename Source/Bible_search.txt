@@ -1,0 +1,1 @@
+java -cp ahoCorasickSearch.jar ACHaku bible.txt "god is good" "Thou shalt not suffer a witch to live." "And though I have the gift of prophecy, and understand all"
